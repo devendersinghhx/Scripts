@@ -28,6 +28,7 @@ REPO_PACKAGES=(
     "npm"
     "ffmpeg"
     "base-devel"
+    "tree"
 )
 
 # Update package database and upgrade all packages
